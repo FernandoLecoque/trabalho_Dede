@@ -28,7 +28,7 @@ function Header() {
 // Estilos inline para o Header
 const styles = {
   header: {
-    width: '200%',
+    width: '98%',
     display: 'flex',
     justifyContent: 'space-between', // Distribui o ícone e os botões nas extremidades
     alignItems: 'center', // Centraliza verticalmente
