@@ -1,7 +1,7 @@
 export const imagensGaleria = [
     {
       id: 1,
-      title: 'Imagem 1',
+      title: 'Tatuagem Massa',
       url: '/images/tattoo1.jpg',
       description: 'Esta é a descrição da Imagem 1',
       categoria: 'tatuagem',
@@ -22,7 +22,7 @@ export const imagensGaleria = [
     },
     {
         id: 4,
-        title: 'Imagem 1',
+        title: 'Tatuagem Massa',
         url: '/images/tattoo2.jpg',
         description: 'Esta é a descrição da Imagem 1',
         categoria: 'tatuagem',
@@ -43,7 +43,7 @@ export const imagensGaleria = [
       },
       {
         id: 7,
-        title: 'Imagem 1',
+        title: 'Tatuagem Massa',
         url: '/images/tattoo3.jpg',
         description: 'Esta é a descrição da Imagem 1',
         categoria: 'tatuagem',
@@ -65,7 +65,7 @@ export const imagensGaleria = [
     // Adicione mais imagens conforme necessário...
     {
         id: 10,
-        title: 'Imagem 1',
+        title: 'Tatuagem Massa',
         url: '/images/tattoo4.jpg',
         description: 'Esta é a descrição da Imagem 1',
         categoria: 'tatuagem',
@@ -86,7 +86,7 @@ export const imagensGaleria = [
       },
       {
           id: 13,
-          title: 'Imagem 1',
+          title: 'Tatuagem Massa',
           url: '/images/tattoo5.jpg',
           description: 'Esta é a descrição da Imagem 1',
           categoria: 'tatuagem',
@@ -107,7 +107,7 @@ export const imagensGaleria = [
         },
         {
           id: 16,
-          title: 'Imagem 1',
+          title: 'Tatuagem Massa',
           url: '/images/tattoo6.jpg',
           description: 'Esta é a descrição da Imagem 1',
           categoria: 'tatuagem',
@@ -129,7 +129,7 @@ export const imagensGaleria = [
         // mais imagens
         {
             id: 19,
-            title: 'Imagem 1',
+            title: 'Tatuagem Massa',
             url: '/images/tattoo7.jpg',
             description: 'Esta é a descrição da Imagem 1',
             categoria: 'tatuagem',
@@ -150,7 +150,7 @@ export const imagensGaleria = [
           },
           {
               id: 22,
-              title: 'Imagem 1',
+              title: 'Tatuagem Massa',
               url: '/images/tattoo8.jpg',
               description: 'Esta é a descrição da Imagem 1',
               categoria: 'tatuagem',
@@ -171,7 +171,7 @@ export const imagensGaleria = [
             },
             {
               id: 25,
-              title: 'Imagem 1',
+              title: 'Tatuagem Massa',
               url: '/images/tattoo9.jpg',
               description: 'Esta é a descrição da Imagem 1',
               categoria: 'tatuagem',

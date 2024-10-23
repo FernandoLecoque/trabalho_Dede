@@ -29,7 +29,7 @@ function Home() {
   return (
     <div style={styles.container}>
       <Header />
-      <h1 style={styles.title}>Wallpapers Geek</h1>
+      <h1 style={styles.title}>Wallpapers Daora</h1>
       <ImageGrid imagens={imagensExibidas} />
       <Footer
         totalImagens={imagensFiltradas.length}
